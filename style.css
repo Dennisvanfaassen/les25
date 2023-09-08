@@ -1,0 +1,40 @@
+body {
+  background-color: #EAE8ED;
+}
+
+.herocontent {
+  text-align: center;
+  background-color: #EAE8ED;
+}
+
+.herocontent h1 {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size:4vw;
+}
+
+.herocontent h2 {
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size:12vw;
+  margin-bottom: 100px;
+}
+
+#accordion .ui-accordion-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #EAE8ED;
+}
+
+img {
+  width: 50vw;
+}
+
+.navbar {
+  background-color: #4D4861;
+}
+
+.navbar-brand {
+  color: #D5D1DC;
+}
